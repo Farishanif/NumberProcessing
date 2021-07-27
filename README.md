@@ -36,9 +36,8 @@ User opens the command prompt/terminal
 User navigate the command prompt/terminal to the directory of extraction
 User type "java -jar NumbersProcessor.jar" on the command prompt/terminal
 User operates the program
-or just download the .jar and .bat file together then execute the .bat file (windows only)
 
-device that already has JRE installed may run the .jar file directly by double clicking the file (some device may not work with this method)
+device that already has JRE installed may run the .jar file by double clicking the file (some device may not work)
 
 From IDE:
 
