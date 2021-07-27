@@ -17,13 +17,15 @@ How its works:
 - NumberProcessing process those number accordingly (sort, count avg, count median, count multiplication).
 - NumberProcessing show the result to user.
 
-** cannot exceed 9999999999 (ninety-nine-billion-ninety-nine-million-ninety-nine-thousand-ninety-nine-hundred-ninetry-nine) (approx.).
+cannot exceed 9999999999 (ninety-nine-billion-ninety-nine-million-ninety-nine-thousand-ninety-nine-hundred-ninetry-nine) (approx.).
 
-*** cannot exceed 999999999 (nine-billion-ninety-nine-million-ninety-nine-thousand-ninety-nine-hundred-ninetry-nine) (approx.).
+cannot exceed 999999999 (nine-billion-ninety-nine-million-ninety-nine-thousand-ninety-nine-hundred-ninetry-nine) (approx.).
 
-**** can only accept integer data type or whole numbers, results may be shown in double data type.
+can only accept integer data type or whole numbers, results may be shown in double data type.
 
-===
+
+=================
+
 
 How to Use?
 
